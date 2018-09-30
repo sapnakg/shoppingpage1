@@ -4,3 +4,4 @@
 - orange
 - grapes
 - mango
+- pineapple
